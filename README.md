@@ -40,7 +40,6 @@ npm install
 ```powershell
 npm run dev
 ```
-Happy coding!
 
 4. Build for production
 
